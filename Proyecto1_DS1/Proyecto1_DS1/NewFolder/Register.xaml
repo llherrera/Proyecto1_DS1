@@ -6,23 +6,40 @@
     <Grid>
         <StackLayout Margin="20">
             <Frame HasShadow="False" CornerRadius="20">
-                <Entry Keyboard="Default" Placeholder="Username" TextColor="Black"/>
+                <Entry Keyboard="Default" 
+                       Placeholder="Username" 
+                       TextColor="Black"
+                       x:Name="txtUsername"/>
             </Frame>
             
             <Frame HasShadow="False" CornerRadius="20">
-                <Entry Keyboard="Default" IsPassword="True" Placeholder="Password" TextColor="Black"/>
+                <Entry Keyboard="Default" 
+                       IsPassword="True" 
+                       Placeholder="Password" 
+                       TextColor="Black"
+                       x:Name="txtPass"/>
             </Frame>
             
             <Frame HasShadow="False" CornerRadius="20">
-                <Entry Keyboard="Default" IsPassword="True" Placeholder="Confirm Password" TextColor="Black"/>
+                <Entry Keyboard="Default" 
+                       IsPassword="True" 
+                       Placeholder="Confirm Password" 
+                       TextColor="Black"
+                       x:Name="txtCPass"/>
             </Frame>
             
             <Frame HasShadow="False" CornerRadius="20">
-                <Entry Keyboard="Default" Placeholder="e-mail" TextColor="Black"/>
+                <Entry Keyboard="Default" 
+                       Placeholder="e-mail" 
+                       TextColor="Black"
+                       x:Name="txtEmail"/>
             </Frame>
             
             <Frame HasShadow="False" CornerRadius="20">
-                <Entry Keyboard="Telephone" Placeholder="telephone" TextColor="Black"/>
+                <Entry Keyboard="Telephone" 
+                       Placeholder="telephone" 
+                       TextColor="Black"
+                       x:Name="txtPhone"/>
             </Frame>
             
             <Button Text="Register" BackgroundColor="LightBlue" CornerRadius="10" FontAttributes="Bold" Margin="0,20,0,0"/>
