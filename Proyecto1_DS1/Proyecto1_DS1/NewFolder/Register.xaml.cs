@@ -1,4 +1,5 @@
-﻿ using System;
+﻿using Proyecto1_DS1.NewFolder1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -56,6 +57,11 @@ namespace Proyecto1_DS1.NewFolder
         private void btnBack_Clicked(object sender, EventArgs e)
         {
             Navigation.PopAsync();
+        }
+
+        private void menuLoad_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Home());
         }
     }
 }

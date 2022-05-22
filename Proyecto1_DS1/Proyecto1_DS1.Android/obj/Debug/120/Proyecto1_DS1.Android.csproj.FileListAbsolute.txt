@@ -1258,3 +1258,6 @@ D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.A
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\res\drawable\home2.png
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\res\drawable\perfil.png
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\res\drawable\fav.png

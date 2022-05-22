@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:Proyecto1_DS1.NewFolder1"
+            x:Class="Proyecto1_DS1.NewFolder1.Home">
+    
+    <local:MenuP/>
+    <local:Perfil/>
+    <local:Favo/>
+</TabbedPage>    
+

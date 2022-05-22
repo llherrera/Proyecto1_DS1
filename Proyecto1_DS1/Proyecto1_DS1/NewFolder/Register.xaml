@@ -42,7 +42,13 @@
                        x:Name="txtPhone"/>
             </Frame>
             
-            <Button Text="Register" BackgroundColor="LightBlue" CornerRadius="10" FontAttributes="Bold" Margin="0,20,0,0"/>
+            <Button Text="Register" 
+                    BackgroundColor="LightBlue" 
+                    CornerRadius="10" 
+                    FontAttributes="Bold" 
+                    Margin="0,20,0,0"
+                    x:Name="menuLoad"
+                    Clicked="menuLoad_Clicked"/>
             <Button Text="Back" 
                     BackgroundColor="Transparent" 
                     HorizontalOptions="Center" 
