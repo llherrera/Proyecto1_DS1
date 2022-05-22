@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Proyecto1_DS1.NewFolder;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace Proyecto1_DS1
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage( new MainPage());
         }
 
         protected override void OnStart()
