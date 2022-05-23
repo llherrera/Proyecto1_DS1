@@ -3,8 +3,17 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "Proyecto1_DS1.Android.dll" comes first in this list. */
 		"Proyecto1_DS1.Android.dll",
+		"DnsClient.dll",
 		"FormsViewGroup.dll",
+		"Microsoft.Win32.Registry.dll",
+		"MongoDB.Bson.dll",
+		"MongoDB.Driver.Core.dll",
+		"MongoDB.Driver.dll",
+		"MongoDB.Libmongocrypt.dll",
 		"Proyecto1_DS1.dll",
+		"SharpCompress.dll",
+		"System.Security.AccessControl.dll",
+		"System.Security.Principal.Windows.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",

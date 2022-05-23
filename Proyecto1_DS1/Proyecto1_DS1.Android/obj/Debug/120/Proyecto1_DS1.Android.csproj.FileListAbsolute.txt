@@ -1229,7 +1229,6 @@ D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.A
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\src\xamarin\essentials\fileProvider.java
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\bin\packaged_resources
-D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\src\com\companyname\proyecto1_ds1\R.java
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.s
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.s
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\compressed_assemblies.x86.s
@@ -1261,3 +1260,16 @@ D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.A
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\res\drawable\home2.png
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\res\drawable\perfil.png
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\res\drawable\fav.png
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\DnsClient.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\Microsoft.Win32.Registry.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\MongoDB.Bson.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\MongoDB.Driver.Core.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\MongoDB.Driver.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\MongoDB.Libmongocrypt.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\SharpCompress.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\System.Buffers.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\System.Security.AccessControl.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\System.Security.Principal.Windows.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\System.Text.Encoding.CodePages.dll
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1.Android\obj\Debug\120\android\assets\System.Text.Encoding.CodePages.pdb

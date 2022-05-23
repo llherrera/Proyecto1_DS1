@@ -28,9 +28,10 @@ D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\o
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\refint\Proyecto1_DS1.dll
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Proyecto1_DS1.pdb
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\ref\Proyecto1_DS1.dll
-D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\NewFolder\Login.xaml.g.cs
-D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\NewFolder\Register.xaml.g.cs
-D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\NewFolder1\Favo.xaml.g.cs
-D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\NewFolder1\MenuP.xaml.g.cs
-D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\NewFolder1\Perfil.xaml.g.cs
-D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\NewFolder1\Home.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Begin\Login.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Begin\Register.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\Favo.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\Home.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\MenuP.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\Perfil.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\addPost.xaml.g.cs

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyecto1_DS1.NewFolder1.MenuP"
+             Title="MenuPrincipal"
+             Icon="home2.png">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackLayout x:Name="sl">
+                
+            </StackLayout>
+            
+            <ScrollView Grid.Row="0">
+                <StackLayout>
+                    <StackLayout>
+                        
+                    </StackLayout>
+                </StackLayout>
+            </ScrollView>
+            
+            <Button Grid.Row="0" 
+                    Text="Añadir post" 
+                    FontAttributes="Bold" 
+                    BackgroundColor="DarkCyan" 
+                    BorderRadius="35" 
+                    TextColor="White" 
+                    HorizontalOptions="End" 
+                    WidthRequest="160" 
+                    HeightRequest="70" 
+                    Margin="0,0,20,22" 
+                    VerticalOptions="End"
+                    x:Name="btnAddPost"
+                    Clicked="btnAddPost_Clicked"/>
+        </Grid>
+        
+    </ContentPage.Content>
+</ContentPage>
