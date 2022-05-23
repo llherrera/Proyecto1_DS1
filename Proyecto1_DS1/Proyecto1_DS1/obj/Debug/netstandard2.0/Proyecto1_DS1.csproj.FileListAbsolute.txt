@@ -35,3 +35,6 @@ D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\o
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\MenuP.xaml.g.cs
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\Perfil.xaml.g.cs
 D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\addPost.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\ContentPost.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\ContentPost2.xaml.g.cs
+D:\Leonardo\U\DiseñoSoftware\1\Proy\Proyecto1_DS1\Proyecto1_DS1\Proyecto1_DS1\obj\Debug\netstandard2.0\Menu\ContentPost3.xaml.g.cs

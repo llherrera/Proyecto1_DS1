@@ -55,7 +55,8 @@ namespace Proyecto1_DS1.NewFolder
 
         private void btnLogin_Clicked(object sender, EventArgs e)
         {
-            validar();
+            //validar();
+            Navigation.PushAsync(new Home());
         }
 
         private void btnRegister_Clicked(object sender, EventArgs e)

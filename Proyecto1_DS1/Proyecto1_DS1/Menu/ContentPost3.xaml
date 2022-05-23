@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Proyecto1_DS1.Menu.ContentPost3">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <ScrollView Grid.Row="0">
+                <StackLayout>
+                    <Frame BackgroundColor="AliceBlue">
+                        <StackLayout>
+                            <Image Source="https://i.ibb.co/9HHNzZj/monta-a.jpg"/>
+                            <Label Text="Espectacular casa en la montaña" TextColor="Black" FontSize="20"/>
+                            <Label Text="Aday Abad"/>
+                            <Label Text="---------------------------------------------------------------------------------------------------------"/>
+                            <Label Text="Increibles vistas, un ambiente sin igualn un lugar para ser uno con la naturaleza." TextColor="Black" FontSize="20"/>
+                            <Label Text="8 huespedes 4 habitaciones 4 camas 2 baños"/>
+                            <Label Text="kilimanjaro"/>
+                        </StackLayout>
+                    </Frame>
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -5,10 +5,28 @@
              Title="Perfil"
              Icon="perfil.png">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Perfil"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <ScrollView Grid.Row="0">
+                <StackLayout>
+                    <Label Text="@Usuario" Margin="20,0,0,0"/>
+                    <Label Text="-------------------------------------------------------------------------------------------------------------------"/>
+                    <Label Text="Configuración" Margin="20,0,0,0"/>
+                    <Button Text="Información personal" BackgroundColor="Transparent" HorizontalOptions="Start" Margin="20,0,0,0"/>
+                    <Button Text="Pagos y cobros" BackgroundColor="Transparent" HorizontalOptions="Start" Margin="20,0,0,0"/>
+                    <Button Text="Notificaciones" BackgroundColor="Transparent" HorizontalOptions="Start" Margin="20,0,0,0"/>
+                    <Button Text="Viajes" BackgroundColor="Transparent" HorizontalOptions="Start" Margin="20,0,0,0"/>
+                    <Label Text="-------------------------------------------------------------------------------------------------------------------"/>
+                    <Label Text="Legal" Margin="20,0,0,0"/>
+                    <Button Text="Terminos y condiciones" BackgroundColor="Transparent" HorizontalOptions="Start" Margin="20,0,0,0"/>
+                    <Button Text="Politica de privacidad" BackgroundColor="Transparent" HorizontalOptions="Start" Margin="20,0,0,0"/>
+                    <Label Text="-------------------------------------------------------------------------------------------------------------------"/>
+                    <Button Text="Cerrar sesión" BackgroundColor="Transparent" HorizontalOptions="Start" Margin="20,0,0,0"/>
+                </StackLayout>
+            </ScrollView>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

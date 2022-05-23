@@ -6,7 +6,7 @@
              Icon="fav.png">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Favoritos"
+            <Label Text="No ha añadido publicaciones a favoritos"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
